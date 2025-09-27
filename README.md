@@ -10,11 +10,11 @@ Hex-Speech transforms complex hexadecimal notation into natural, spoken or writt
 - Hex: `FAD,1102` 
 - Hex-Speech: "sec 1 F duhex A hex D, sec 0 1 trihex 1 duhex and 2"
 
-## Language Structure Rules:
+## Language Structure Rules
 
 The rules for this language are simple, they are actually more simple than English decimal.
 
-### Number position in section markers:
+### Number position in section markers
 - **base:** `0001` would be written as "1" or "one"
 - **hex:** `0010` would be written as "1 hex" meaning 1 * 16 <sup>1</sup> decimal
 - **duhex:** `0100` would be written as "1 duhex" meaning 1 * 16<sup>2</sup> decimal

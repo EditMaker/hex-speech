@@ -4,7 +4,7 @@ A natural spoken and written language for hexadecimal numbers that makes hexadec
 
 ## Overview
 
-Hex-Speech transforms complex hexadecimal notation into natural, spoken or written language.
+Hex-Speech transforms complex hexadecimal notation into natural spoken or written language.
 
 **Example:**
 - Hex: `FAD,1102` 

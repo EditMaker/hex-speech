@@ -24,7 +24,7 @@ The rules for this language are simple, they are actually more simple than Engli
 ### Section Values as Names
 - In Hex-Speech sections are divided after 4 units unlike English decimal units which are divided after 3.
 - You do not say the base secion. **Example:** `AF24` is "A trihex F duhex 2 hex 4"
-- When there are two or more sections you state the section name as "sec" then its number before the section with the base section being 0. **Example:** `F,AF24` is "F sec 1, A trihex F duhex 2 hex 4"
+- When there are two or more sections you state the section name as "sec" then its number before the section with the base section being 0. **Example:** `A,000F,AF24` is "A sec 2, F sec 1, A trihex F duhex 2 hex 4"
 
 ### Hexadecimal points
 - "Hexadecimal points" or "hex points" can also be divided into sections but may also be listed. Hex point sections use "minus" before section number `1.1000,01` is "1, 1 sec minus 1, 1 duhex sec minus 2" however listing digits the same as English decimal is acceptable.

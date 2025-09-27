@@ -19,7 +19,7 @@ The rules for this language are simple, they are actually more simple than Engli
 - **hex:** `0010` would be written as "1 hex" meaning 1 * 16 <sup>1</sup> decimal
 - **duhex:** `0100` would be written as "1 duhex" meaning 1 * 16<sup>2</sup> decimal
 - **trihex:** `1000` would be written as "1 trihex" meaning 1 * 16<sup>3</sup> decimal
-- **and:** If there is a zero gap between nonzero numbers in a section you may optionally include "and" such as `1001` being "1 trihex and 1"
+- **and:** If there is a zero gap between nonzero units in a section you may optionally include "and" such as `1001` being "1 trihex and 1"
 
 ### Section Values as Names
 - In Hex-Speech sections are divided after 4 units unlike English decimal units which are divided after 3.

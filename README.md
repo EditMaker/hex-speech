@@ -15,7 +15,7 @@ Hex-Speech transforms complex hexadecimal notation into natural, spoken or writt
 The rules for this language are simple, they are actually more simple than English decimal.
 
 ### Number position in section markers:
-- **none:** `0001` would be written as "1" or "one"
+- **base:** `0001` would be written as "1" or "one"
 - **hex:** `0010` would be written as "1 hex" meaning 1 * 16 <sup>1</sup> decimal
 - **duhex:** `0100` would be written as "1 duhex" meaning 1 * 16<sup>2</sup> decimal
 - **trihex:** `1000` would be written as "1 trihex" meaning 1 * 16<sup>3</sup> decimal

@@ -16,7 +16,7 @@ The rules for this language are simple, they are actually more simple than Engli
 
 ### Digit position in section markers
 - **base:** `0001` would be written as just "1"
-- **hex:** `0010` would be written as "1 hex" meaning 1 * 16 <sup>1</sup> decimal
+- **hex:** `0010` would be written as "1 hex" meaning 1 * 16<sup>1</sup> decimal
 - **duhex:** `0100` would be written as "1 duhex" meaning 1 * 16<sup>2</sup> decimal
 - **trihex:** `1000` would be written as "1 trihex" meaning 1 * 16<sup>3</sup> decimal
 - **and:** If there is a zero gap between nonzero digits in a section you may optionally include "and" such as `1001` being "1 trihex and 1"

@@ -27,7 +27,7 @@ The rules for this language are simple, they are actually more simple than Engli
 - When there are two or more sections you state the section name as "sec" then its number counting up from the base section which is left unstated as 0. **Example:** `A,000F,AF24` is "A sec 2, F sec 1, A trihex F duhex 2 hex 4"
 
 ### Hexadecimal points
-- Number units after "hexadecimal points" or "hex points" can also be divided into sections but may also be listed. Hex point sections use "minus" before section number `1.1000,01` is "1, 1 sec minus 1, 1 duhex sec minus 2" however listing digits the same as English decimal is preferred.
+- Number units after "hexadecimal points" or "hex points" can also be divided into sections but may also be listed. Hex point sections use "minus" before section number `1.1000,01` is "1, 1 sec minus 1, 1 duhex sec minus 2" however listing digits the same as English decimal is intended to be the way digits after the hex point are communicated.
 
 ## Notes Beyond Language
 I think if someone wants to intuitively learn hex they should learn "landmarks" such as 0.8 being half of 1, 0.4 being a quarter of 1, 20 being decimal 2 * 16 and so on.

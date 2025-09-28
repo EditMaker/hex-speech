@@ -7,8 +7,8 @@ A natural spoken and written language for hexadecimal numbers that makes hexadec
 Hex-Speech transforms complex hexadecimal notation into natural spoken or written language.
 
 **Example:**
-- Hex: `FAD,1102` 
-- Hex-Speech: "F duhex A hex D sec 1, 1 trihex 1 duhex and 2"
+- Hex: `FAD,1022` 
+- Hex-Speech: "F duhex A hex D sec 1, 1 trihex and 2 hex 2"
 
 ## Language Structure Rules
 

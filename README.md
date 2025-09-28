@@ -21,7 +21,7 @@ The rules for this language are simple, they are actually more simple than Engli
 - **trihex:** `1000` would be written as "1 trihex" meaning 1 * 16<sup>3</sup> decimal
 - **and:** If there is a zero gap between nonzero digits in a section you may optionally include "and" such as `1001` being "1 trihex and 1"
 
-### Section Values as Names
+### Section values as names
 - In Hex-Speech sections are divided into sections of 4 digits (16 bits) unlike English decimal digits which are divided after 3.
 - You do not say the base section. **Example:** `AF24` is "A trihex F duhex 2 hex 4"
 - When there are two or more sections you state the section name as "sec" then its number counting up from the base section which is left unstated as 0. **Example:** `A,000F,AF24` is "A sec 2, F sec 1, A trihex F duhex 2 hex 4"
